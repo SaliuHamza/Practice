@@ -5,7 +5,7 @@
 }
 
 body {
-    width: 100;
+    width: 100%;
     overflow-x: hidden;
 }
 
@@ -352,7 +352,7 @@ color: #00B6F0;
 cursor: pointer;
 }
 
-.rethink {
+.feature3 {
     margin-top: 4rem;
     margin-bottom: 4rem;
     text-align: center;
@@ -422,3 +422,209 @@ border-radius: 9.5px;
         background: white;
         color:  #00B6F0;
     }
+
+    .feature4
+    {
+        margin-top: 25rem;
+    }
+
+
+    .text6 {
+    text-align: center;
+    margin-bottom: -4rem;    
+    }
+
+    .text6 h4 {
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.1px;
+    color: #20262A;
+    padding-bottom: 6rem;
+    }
+    .text6 img{
+        padding-bottom: 3rem;
+    }
+
+    .text6 p{
+        width: 33%;
+        margin: auto;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #5C5C5C;
+    }
+
+    .small{
+        margin-bottom: -10rem;
+        margin-left: 10rem;
+    }
+    .but{
+        text-align: center;
+    }
+
+    .client{
+        display: flex;
+        justify-content: center;
+        margin-top: 8rem;   
+    }
+
+    .client p{
+        padding-left: 1rem;
+
+    }
+
+    .navyblue {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: -9rem;
+
+    }
+
+    .navy{
+       margin-right: -10rem;
+    }
+
+    .feature5{
+    display: flex;
+padding: 100px 150px;
+gap: 10px;
+background: #182333;
+}
+
+.text7 h3{
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 65px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+padding-bottom: 1.5rem;
+}
+
+.text7 p{
+    font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 19px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+width: 40%;
+}
+
+.text8 h6 {
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0.1px;
+color: #FFFFFF;
+} 
+
+.dollar {
+    display: flex;
+    padding-bottom: 1,5rem;
+}
+
+.dollar h6{
+    font-family: 'Circular Std';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 78px;
+letter-spacing: 0.2px;
+color: #F3CD03;
+}
+
+.dollar span{
+    font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 24px;
+line-height: 38px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+
+}
+
+.text8 p {
+    font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 19px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+}
+
+.bot {
+    padding-top: 1rem;
+}
+.btn5 {
+padding: 20px 36px;
+width: 192px;
+height: 52px;
+background: #00B6F0;
+border-radius: 85px;
+cursor: pointer;
+margin-right: 25px;
+}
+
+.btn5:hover{
+    background: white;
+    color:  #00B6F0;
+}
+
+.feature6 {
+    display: flex;
+    justify-content: space-evenly;
+padding: 50px 20px;
+gap: 10px;
+width: 1600px;
+height: 443px; 
+background: linear-gradient(180deg, #E9FAFF 0%, rgba(233, 250, 255, 0) 100%);
+
+}
+
+.text9 h5 {
+    font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.1px;
+color: #20262A;
+width: 386px;
+height: 84px;
+}
+
+.text10 {
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 19px;
+line-height: 30px;
+letter-spacing: 0.2px;
+color: #5C5C5C;
+width: 426px;
+height: 211px;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 90%;
+height: 207px;
+background: #FFFFFF;
+}
